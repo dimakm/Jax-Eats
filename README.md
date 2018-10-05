@@ -25,7 +25,7 @@ This application follow this [Udacity Project Rubric](https://review.udacity.com
 ## Important
 
 Please note that the **Service Worker** works only in the **production build**. 
-The project was created with create-react-app and I used the created service worker for it.
+The project was created with create-react-app and I used the created service worker for it, so if you want to use the service worker create-react-app in your computer and put my files in it.
 
 ## How to run the project
 
