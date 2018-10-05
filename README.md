@@ -33,7 +33,7 @@ To run the project in the **development mode**, follow the instructions below:
 
 Download or clone [this repository in your computer](https://github.com/dimakm/Jax-Eats)
 
-cd to the repository folder, and then in the repository folder:
+cd to the repository folder, example cd c:/my-app and then in the repository folder:
 * install project dependencies with 
 ```
 npm install axios --save
