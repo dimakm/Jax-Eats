@@ -14,22 +14,21 @@
 
 ## Overview
 
-This is single page application featuring a map of some restaurants in St.Johns Town Center in Jacksonville, FL where I live. 
- Made as the final project of Front End Web Developer Nanodegree .
- it includes making function calls to Google Maps and other location-based services like Foursquare.
- 
+This is single page application showing a map of some restaurants in St.Johns Town Center in Jacksonville, FL . 
 The app allows you to filter the list down as you type. In return, it displays the locations on the map.
-
+It was Made as the final project of Front End Web Developer Nanodegree.
+ 
 This application follow this [Udacity Project Rubric](https://review.udacity.com/#!/rubrics/1351/view)
 
 ## Important
 
-Please note that the **Service Worker** works only in the **production build**. 
-The project was created with create-react-app and I used the created service worker for it, so if you want to use the service worker create-react-app in your computer and put my files in it.
+The project was created with create-react-app and I used the created service worker for it, so if you want to use the **Service Worker** create-react-app in your computer and put my files in it.
+The **Service Worker** works only in the **production build**. 
+
 
 ## How to run the project
 
-To run the project in the **development mode**, follow the instructions below: 
+To run the project follow the instructions below: 
 
 Download or clone [this repository in your computer](https://github.com/dimakm/Jax-Eats)
 
@@ -65,3 +64,5 @@ npm start
 * [Udacity | Neighborhood Map - Project Explained](https://www.youtube.com/playlist?list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1) by Yahya Elharony.
 *[Working with the markers](https://developers.google.com/maps/documentation/javascript/markers)
 * I followed React documentation on [Error Boundaries](https://reactjs.org/docs/error-boundaries.html) for handeling errors.
+* Slack mates were great help, and I couldn't made it without the help of our awesome mentors , Hats off to those wonderful people.
+**Special thanks to the reviewer**
