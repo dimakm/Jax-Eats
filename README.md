@@ -61,8 +61,8 @@ npm start
 
 ## Credits & Helpful Links
 
-* [Udacity | Neighborhood Map - Project Explained](https://www.youtube.com/playlist?list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1) by Yahya Elharony.
-*[Working with the markers](https://developers.google.com/maps/documentation/javascript/markers)
+* [Udacity | Neighborhood Map - Project Explained](https://www.youtube.com/playlist?list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1) by Yahya Elharony gave the idea of using axios.
+* [Working with the markers](https://developers.google.com/maps/documentation/javascript/markers)
 * I followed React documentation on [Error Boundaries](https://reactjs.org/docs/error-boundaries.html) for handeling errors.
 * Slack mates were great help, and I couldn't made it without the help of our awesome mentors , Hats off to those wonderful people.
 **Special thanks to the reviewer**
