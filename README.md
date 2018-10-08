@@ -20,6 +20,9 @@ It was Made as the final project of Front End Web Developer Nanodegree.
  
 This application follows this [Udacity Project Rubric](https://review.udacity.com/#!/rubrics/1351/view)
 
+![Screenshot](./src/screenShots/Screenshot1.PNG "Screenshot of the App")
+
+
 ## Important
 
 The project was created with create-react-app and I used the created service worker for it, so if you want to use the **Service Worker** create-react-app in your computer and put my files in it.
