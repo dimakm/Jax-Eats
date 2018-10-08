@@ -23,7 +23,7 @@ This application follows this [Udacity Project Rubric](https://review.udacity.co
 ## Important
 
 The project was created with create-react-app and I used the created service worker for it, so if you want to use the **Service Worker** create-react-app in your computer and put my files in it.
-The **Service Worker** works only in the **production build**. 
+The **Service Worker** works in the **production build**. 
 
 
 ## How to run the project
