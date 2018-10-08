@@ -59,7 +59,7 @@ npm start
 * [FourSquare](https://developer.foursquare.com/) for getting the information for the the restaurants
 
 
-## Credits & Helpful Links
+## Credits&Helpful Links
 
 * [Udacity | Neighborhood Map - Project Explained](https://www.youtube.com/playlist?list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1) by Yahya Elharony gave the idea of using axios.
 * [Working with the markers](https://developers.google.com/maps/documentation/javascript/markers)
