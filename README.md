@@ -14,11 +14,11 @@
 
 ## Overview
 
-This is single page application showing a map of some restaurants in St.Johns Town Center in Jacksonville, FL . 
+This is a single page application showing a map of some restaurants in St.Johns Town Center in Jacksonville, FL . 
 The app allows you to filter the list down as you type. In return, it displays the locations on the map.
 It was Made as the final project of Front End Web Developer Nanodegree.
  
-This application follow this [Udacity Project Rubric](https://review.udacity.com/#!/rubrics/1351/view)
+This application follows this [Udacity Project Rubric](https://review.udacity.com/#!/rubrics/1351/view)
 
 ## Important
 
