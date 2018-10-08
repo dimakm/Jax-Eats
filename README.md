@@ -8,7 +8,7 @@
 * [Overview](#overview)
 * [Important](#important)
 * [How to run the project](#how-to-run-the-project)
-* [Dependencies](#dependencies-&-tools-used)
+* [Dependencies](#dependencies-used)
 * [APIs Used](#apis-used)
 * [Credits and Useful Links](#credits-and-useful-links)
 
